@@ -5,7 +5,7 @@ This project is a simple web page that showcases a collection of cards using Fle
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Deployment]
+- [Deployment](#deployment)
 
 ## Features
 
