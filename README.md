@@ -5,6 +5,7 @@ This project is a simple web page that showcases a collection of cards using Fle
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Deployment]
 
 ## Features
 
@@ -19,4 +20,12 @@ This project is a simple web page that showcases a collection of cards using Fle
 - HTML
 - CSS
 - Font Awesome
+
+## Deployment
+
+This project is deployed on GitHub Pages. You can access the live version by clicking the link below:
+
+[Deployment](https://olgagabbert.github.io/flex-cards/)
+
+Feel free to explore the deployed project and interact with the responsive cards, gradient backgrounds, and Font Awesome icons in action.
 
